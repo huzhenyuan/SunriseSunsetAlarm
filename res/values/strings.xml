@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunrise Sunset Alarm</string>
+    <string name="title_activity_alarm">Sunrise Sunset Alarm</string>
+    <string name="off">OFF</string>
+    <string name="alarm">Alarm</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+
+</resources>
